@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **SecureGluco Dashboard - Integrated AI and Cyber Threat Detection**
 
 A comprehensive diabetes management dashboard with integrated AI-powered cybersecurity threat detection capabilities.
@@ -409,3 +410,6 @@ Dependencies: **Streamlit, PyTorch, Pandas, NumPy, Plotly, Scikit-learn**
 **SecureGluco Dashboard & Streamlit App** — Protecting Your Health with Advanced BioMEMS Technology and AI Security.
 
 ---
+=======
+# secure-gluco
+>>>>>>> f0ae7f78ad949de7b18c16333cedd7ef3640bbf6
