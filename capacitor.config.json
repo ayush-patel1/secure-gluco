@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.myapp",
+  "appName": "SecureGluco",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
